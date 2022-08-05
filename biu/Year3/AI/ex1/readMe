@@ -1,0 +1,17 @@
+Hello, 
+
+i wanted to clerify a few things,
+
+first its importent to know that in A* algorithem i could change the visit order in _lt_
+function in Node class and in that way lower the number of visits
+,but for unity in answers i chose to pull the nodes from Queue in
+the same order others did.
+
+in addition i would like to add that i could output the cost of the algorithem (f(n)) 
+but after alot of discussion with others we got to a conclusion it will be more logical
+to output the length of the route.
+
+last thing is about IDS, i was not sure if to reset my memory every run like we learned,
+if i would do that my visit count was too low.
+
+thank you in advance!

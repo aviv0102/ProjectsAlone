@@ -1,0 +1,23 @@
+Aviv Shisman 206558157
+Itay Hassid 209127596  
+
+hello,
+
+please notice we explained everything at the writeUp
+
+as you can see each model has its own code files and results files.
+
+how to run? simply install the needed imports and run the ex3_spiral/par/line.py 
+
+input: will use generate_data.py in each model directory to create the data its need(different files)
+
+output: 5 fake versions of the data plotted using matplotlib
+
+Importent!:
+there supposed to be 3 different generate_data.py file if for some reason it is not the case please download the code 
+from here
+
+https://drive.google.com/open?id=1RNjXV42dAuwLCII2eN2qW9rk03RqdX4e
+
+
+thank you!

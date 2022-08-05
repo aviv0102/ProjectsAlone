@@ -1,0 +1,36 @@
+
+hello,
+
+these are the running instructions:
+
+Extract.py:
+
+- arg1 is the model.file (we use it to filter later in rule 4 - explained in writeUp)
+- arg2 is the corpus we want to extract relations from
+
+output: 'result.txt' in annotations format
+
+Eval.py:
+
+- arg1 the 'result.txt'
+- arg2 the corpus annotations file
+
+output: prints--> f1 score, recall, precision
+
+
+example of running:
+
+python3 extract.py model.file Corpus.DEV 
+
+python3 eval.py result.txt DEV.annotations
+
+
+you need to download:
+
+- spacy package
+- spacy en 		---> python3 -m spacy download en
+
+(if download en not working, try with sudo)
+
+
+if there is any problem --> https://drive.google.com/open?id=1vfth0mDRN705RN-O3IKelcB_04Rp2yKk

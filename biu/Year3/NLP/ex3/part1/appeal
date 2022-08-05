@@ -1,0 +1,22 @@
+שלום,
+
+ברצוננו לערער על הציון בתרגיל זה מהסיבות הבאות:
+
+
+   
+1. מבחינת דימיון, כל מילה עברנו על כל התוצאות של כל אחת מהמודלים וראינו שהרוב קשורים נקח לדוגמא את המילה הראשונה car:
+
+שיטה ראשונה לפי משפט: 
+bmw, chevrolet, chassis,
+gt, onto, brake, toyota,
+ferrari, honda, gm,
+automotive, nascar, lap,
+diesel, speedway,
+automobile, holden,
+fuselage, piston, wagon
+				dealership-סוכנות רכב, mercedes-benz- חברת רכב,alfa -  חברת רכב אלפא רומאו, champ- ראה ערך בויקיפדיה champ car חלק מהמילה 
+			peugeot- חברת רכב , fiat - חברת רכב ,midget - יש תחרויות של מכוניות מירוץ קטנות, volkswagen -חברת רכב , kei - חברת רכב,styling - עיצוב הרכב , touring - סבבי מירוצים כמו פורמולה,aerodynamic -עקרון פיזיקלי שמשפיע על מהירות המכונית , bmw -חברת רכב, cadillac -חברת רכב ,
+				nissan -חברת רכב, bumper -חלק באוטו, baggage - חלק באוטו ,fia -חברת רכב, opel-חברת רכב, stolen- חברת רכב
+
+2. כן סיננו function words , ניתן לראות בשורות 129,137(calcBySentence) ושורות 188,197 (calcByWindow) ושורות 232,240 (calcDependency)
+   בכל אלו הגדרנו מהם סוגי הfunction words ועברנו רק על מילים שלא חלק מהקבוצה הזו.

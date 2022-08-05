@@ -1,0 +1,18 @@
+
+- in was far from ent=name
+- name not recognized
+- the place was a Location x2
+- the name was Cardinal
+- distance between org to gpe (increased to 35) x10
+- got 'the' before location (u.s) due to nlp fuck up x2
+- missing 'the'
+- triple name x2
+- norp(soviet) x6
+- not good entities (nlp fuck up)
+- triple name with dot
+- had location before and attached it to name (nlp fuck up)
+- the place was added 's' (nlp fuck up) x2
+- person i gpe
+- triple name for regular name (added adj) -nlp fuck up
+- name had 3 extra words (nlp fuck up) x2
+- they miss DR in their answers
