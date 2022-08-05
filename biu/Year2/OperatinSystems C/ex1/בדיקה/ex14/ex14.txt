@@ -1,0 +1,16 @@
+Haim Yavin 20000 Jerusalem 1/1/1998 15:18
+Haim Yavin 18000 Jerusalem 15/1/1998 16:11
+Total balance: 38000
+
+Dudu Topaz 10000 Herzliya-Pituah 1/1/1998 11:22
+Dudu Topaz 11000 Herziliya-Pituah 15/1/1998 13:21
+Total balance: 21000
+
+Boris Lavva -1000 Technion 1/1/1998 17:11
+Boris Lavva -2000 Technion 16/1/1998 11:13
+Total balance: -3000
+
+Dan Shilon 5000 Ramat-Aviv 1/1/1998 10:34
+Dan Shilon 3000 Ramat-Aviv 14/1/1998 10:34
+Total balance: 8000
+

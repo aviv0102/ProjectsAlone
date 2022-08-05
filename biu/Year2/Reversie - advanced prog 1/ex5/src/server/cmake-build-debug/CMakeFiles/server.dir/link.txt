@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/server.dir/CommandManeger.cpp.o CMakeFiles/server.dir/GameMap.cpp.o CMakeFiles/server.dir/GameRoom.cpp.o CMakeFiles/server.dir/JoinGame.cpp.o CMakeFiles/server.dir/ListGames.cpp.o CMakeFiles/server.dir/main.cpp.o CMakeFiles/server.dir/Server.cpp.o CMakeFiles/server.dir/StartGame.cpp.o  -o server 

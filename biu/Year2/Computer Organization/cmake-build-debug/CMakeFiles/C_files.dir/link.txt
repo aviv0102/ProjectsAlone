@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/C_files.dir/main.c.o CMakeFiles/C_files.dir/ex1.c.o  -o C_files 

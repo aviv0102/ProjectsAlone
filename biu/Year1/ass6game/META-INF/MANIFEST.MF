@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: biuoop-1.4.jar
+Created-By: 1.8.0_71 (Oracle Corporation)
+Main-Class: Ass6Game
+

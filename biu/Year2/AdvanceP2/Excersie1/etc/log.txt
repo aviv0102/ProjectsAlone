@@ -1,0 +1,76 @@
+commit kundkc832niasdi32a1ja2j9v2m5njsvbnjlopsd
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Tue June 19 19:00:53 2018 +0300
+
+     Adding Android (With WIfi brodcaster,notifications,send images etc...)
+
+commit cxwzqjsnecdn2mar2mkdxfvvgmhxazan23spghg6
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Tue June 12 18:10:03 2018 +0300
+
+     Adding Photo's and Finish
+
+commit hjebswm51ywnreqzfgshkbjrmkloky4bzsdjbv2w
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Tue June 5 11:52:58 2018 +0300
+
+     Adding Config,WebImage,Log Page
+	 
+commit 904b59o9pckc342dghbftyuimw2ascb533bczsfg
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Mon June 4 12:13:49 2018 +0300
+
+     Adding WebApplication2 and installing Packages
+	 
+commit qce21vdvndns2d4vhag56dfvbtham6aogahpaf7u
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Sat May 26 14:13:07 2018 +0300
+
+     Log MVVM, Minor fixes , Finish
+
+commit acebsw321ddnwsazxvbhewjrbnghk5672csjufsa
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Sat May 19 10:02:54 2018 +0300
+
+     Gui client, settings modal and view modal, Remove Button
+
+	 
+commit 204b599ccbcn3sdfgg8hfj8kaw23q1erbn3jmhzf
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Mon May 14 15:22:04 2018 +0300
+
+     MultiThreaded server-client with handel Client
+
+	 
+commit 32desrvt8kay9kemr9ncbnue2nbh6542aqwgsdfg
+Author: nadav <nadavgross7@gmail.com>
+Date:   San May 13 12:55:32 2018 +0300
+
+    Settings View
+
+
+commit as2355g94es6edd3fbg3h2hjklf28ldhdf6swe72
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Sat Apr 14 21:02:43 2018 +0300
+
+    Final Fix
+
+
+commit 2d53d4g28s5w23b9gbj7k5lcl8d7l7ea4f2b3z99
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Thu Apr 12 19:55:46 2018 +0300
+
+    Meged+Server+Modals
+
+
+commit g4daszvb8saw9fe5r9kfiaue216j1e86q144ds36
+Author: nadav <nadavgross7@gmail.com>
+Date:   Tue Apr 10 10:50:45 2018 +0300
+
+    Service
+
+commit e0vb899cd86c3b9g086f38eas23513cae63ldhdf
+Author: shismaa <avivsh0204@gmail.com>
+Date:   Mon Apr 2 16:02:08 2018 +0300
+
+     Adding controller + handler

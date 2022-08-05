@@ -1,0 +1,71 @@
+commit 9a3dt631457h8jkl5e93e750b153114vbne322f1
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Mon Nov 20 8:30:17 2017 +0200
+
+    Ex2 finish.
+
+commit 1076f424jkey40v75e93m74y0653tuidcf63c2f8
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Mon Nov 20 11:16:30 2017 +0200
+
+    AI class, player vs computer option.
+
+commit 7abe3454796c40h6j5er3u7pqb143216d7f9302o
+Author: Rome Sharon <rom.sharon98@gmail.com>
+Date:   Thu Nov 23 18:46:01 2017 +0200
+
+    Tests: Cell, CellManager, ReversiRule.
+
+commit gah7f52b5n0z4g6d5j9kea46b2531146cj6ic2fe9
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Fri Nov 24 14:56:49 2017 +0200
+
+    Tests: Player, HumenPlayer, Board, AI.
+
+commit 8a7ef424590c40675e93e740b153114dcf63c2f8
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Tus Nov 28 20:12:11 2017 +0200
+
+    Ex3 done.
+    
+commit 3cbnmkl796c5802479jopzqactyu16d7kg46dod
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Tus Dec 5 20:23:06 2017 +0200
+
+    ClientPlayer
+
+commit ayhlfb2c5d0f4t665892ex47bz5151v6djeii2uen
+Author: Rome Sharon <rom.sharon98@gmail.com>
+Date:   Fri Dec 8 14:56:49 2017 +0200
+
+    Server
+
+commit 8a7ef424590c40675e93e740b153114dcf63c2f8
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Sun Dec 10 22:37:08 2017 +0200
+
+    Ex4 done.
+    
+commit 577eff245v0cc06r5e9gh40jgg3n4mdjfk3l2q7
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Fri Dec 26 17:35:44 2017 +0200
+
+    Ex5 multythreaded server.
+    
+commit rt7yfj2d594c707ef3740bd5e1ggcf6j3jc2f5
+Author: Rome Sharon <rom.sharon98@gmail.com>
+Date:   Sat Dec 27 22:06:56 2017 +0200
+
+    Ex5 client commands.
+    
+commit 8t7hfh259fd44665e83v74sbg5k11ldcfi63f2zq
+Author: Aviv Shisman <avivsh0204@gmail.com>
+Date:   Thu Dec 30 21:47:07 2017 +0200
+
+    Ex5 server commands.
+    
+commit 5a6ef424y59g0467f5w9tey4bbz53b1fddfw3q2b8
+Author: Rome Sharon <rom.sharon98@gmail.com>
+Date:   Tus Jan 2 20:21:00 2017 +0200
+
+    Ex5 Finish.

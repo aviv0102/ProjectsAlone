@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/magshimim/Desktop/Computer Organization/ex5_files/myfunction.c
+readBMP.h
+/home/magshimim/Desktop/Computer Organization/ex5_files/readBMP.h
+
+/home/magshimim/Desktop/Computer Organization/ex5_files/readBMP.c
+stdio.h
+-
+stdlib.h
+-
+readBMP.h
+/home/magshimim/Desktop/Computer Organization/ex5_files/readBMP.h
+
+/home/magshimim/Desktop/Computer Organization/ex5_files/readBMP.h
+
+/home/magshimim/Desktop/Computer Organization/ex5_files/showBMP.c
+GL/glut.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdio.h
+-
+stdlib.h
+-
+readBMP.h
+/home/magshimim/Desktop/Computer Organization/ex5_files/readBMP.h
+string.h
+-
+writeBMP.h
+/home/magshimim/Desktop/Computer Organization/ex5_files/writeBMP.h
+sys/time.h
+-
+sys/resource.h
+-
+myfunction.c
+/home/magshimim/Desktop/Computer Organization/ex5_files/myfunction.c
+
+/home/magshimim/Desktop/Computer Organization/ex5_files/writeBMP.c
+writeBMP.h
+/home/magshimim/Desktop/Computer Organization/ex5_files/writeBMP.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/magshimim/Desktop/Computer Organization/ex5_files/writeBMP.h
+readBMP.h
+/home/magshimim/Desktop/Computer Organization/ex5_files/readBMP.h
+

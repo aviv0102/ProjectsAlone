@@ -1,0 +1,9 @@
+﻿Uninstalling assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.

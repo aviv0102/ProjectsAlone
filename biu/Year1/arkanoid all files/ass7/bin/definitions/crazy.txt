@@ -1,0 +1,23 @@
+
+START_LEVEL
+level_name:Don't lose 
+background:image(background_images/space.jpg)
+paddle_speed:800
+paddle_width:100
+block_definitions:definitions/crazy1.txt
+blocks_start_x:10
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-lxlxlxlxlxlxlxlxlxlxlxlxl--
+-zxzxzxzxzxzxzxzxzxzxzxzxz--
+-lxlxlxlxlxlxlxlxlxlxlxlxl--
+-zxzxzxzxzxzxzxzxzxzxzxzxz--
+-lxlxlxlxlxlxlxlxlxlxlxlxl--
+-zxzxzxzxzxzxzxzxzxzxzxzxz--
+END_BLOCKS
+END_LEVEL
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ex5_files.dir/myfunction.c.o CMakeFiles/ex5_files.dir/readBMP.c.o CMakeFiles/ex5_files.dir/showBMP.c.o CMakeFiles/ex5_files.dir/writeBMP.c.o  -o ex5_files 
