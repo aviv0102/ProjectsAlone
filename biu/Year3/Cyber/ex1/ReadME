@@ -1,0 +1,37 @@
+hello,
+
+we wanted to explain what we did in case of any problem.
+there are 2 ways we found out to print the last digit we want.
+
+*my partners id ends with 96 therefore we need to define the buffer in size 96 and print 6
+
+*we will use the input the input to do the following
+
+1. the first way is when "func" is called the pointer "ret" goes to where is buffer + arg1 and add there arg2,
+   we can use it to alternate the return address and jump to case 6 that changes y to 6 (and later we print y).
+   how?
+   --> if we add 104 (bufferSize+ size of ebp + alignments) we can go to the return address and add arg2 to there.
+   --> if arg2 will be the difference between the orginial return address and the address of case 6 we will be able
+   to jump from func to case 6 and change y to 6, the difference is 146 (checked in gdb with disas command)
+   
+   final answer: 104 146
+   
+   (for printing other numbers: 86 for 0, 96 for 1,106 for 2,116 for 3...)
+   
+
+2. the second way is to directly change x and with that jump to the case we want later in the code, how?
+   we know that the frame of the main function is above therefore we can directly change the value of x.
+   
+   with arg1 equals to sizeOfBuffer + 36 we can get directly to x
+   now  arg2 need to be any negative number that will reduce x to the case we want,
+   in our case for 6 , x needs to be 96 therfore arg2 will be -928 (1024 -928 =96)
+   
+   (for 0 it will be -1024 , for 1 it will be-1008, for 2 it will be -992 and so on...)
+    
+   final answer: 132 -928
+   
+   
+thank you,
+
+aviv shisman 206558157
+itay hassid 209127596

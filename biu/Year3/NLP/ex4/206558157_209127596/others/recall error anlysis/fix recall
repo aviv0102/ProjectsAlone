@@ -1,0 +1,22 @@
+effect:
+
+- distance between org to gpe (increased to 35) x10
+
+- not recognize places names good x5
+
+- triple name x2
+- had location before and attached it to name (nlp fuck up)
+- triple name for regular name (added adj) -nlp fuck up
+- name had 3 extra words (nlp fuck up) x2
+
+little effect:
+- in was far from ent=name
+- name not recognized
+- the place was a Location x2
+- the name was Cardinal
+- triple name with dot
+
+- missing 'the'
+- person i gpe
+
+- they miss DR in their answers

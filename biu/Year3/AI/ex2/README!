@@ -1,0 +1,34 @@
+hello,
+
+run:
+- need 2 arguments train,test
+
+
+info / questions:
+
+- about the KNN:
+  in a situation of there is multiple neighbors with the same distance i took the first 5 like you said.
+  but the more accurate one was to look at all the neighbors with the same distance (it brings higher precentage)
+
+- about the naiveBayes :
+  1. it was not clear if k is --> word_count[word] -- number of occurrences of Xi
+  		      or k is --> col_count[i] - number of options of the same row (sex=2 options),
+     eventually i used the second option because someone said that is what you want,
+     but i did get better results at the first one... 
+
+  2. in case N(xi,cj) is 0 --> we did not see the combination, are we supposed to give the top of the expression
+     value of 1 or 0 ?
+     for a value of 1 i got higher precentage for some of my friends tests but not all ways(some times 0 was better)
+     because it was not disscussed please don't reduce me points for it.
+     
+
+notice:
+
+- my code runs on U2 and has succesfuly passed the test you brought us + some other test pepole sent.
+
+
+
+please give you full attention to my assigment because i put a lot of effort in to it, 
+
+
+thank you for your time! :)

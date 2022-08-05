@@ -1,0 +1,270 @@
+
+#-------------------------------------------------------------------------------------------------------
+#   Aviv Shisman 206558157  Itay Hassid 209127596
+#	What i Added:
+#
+#	VPExtended = a way to extend VP to be : VP or conj of VP's like example b
+#	NounExtended = a way to extend noun
+#	SBAR = Complementary (took from lecture 5)
+#	NNP = names...(we learned it in lecture5)
+#   Conj = conjunctions (and ,or ..)
+#	
+#	VerbPS = verb in present form
+#	VerbPT = verb in past form
+#	VerbPTTerminal = verb in past form that ends the sentence
+#	VerbPTSbar = Verb in the past that have SBAR after it(said) --> we saw it as v[5] in lecture
+#	VerbPTE = Verb in past that are emotions
+#
+#
+#   Read Below for part 4 sections (an/a, yes/no questions )
+#   In this part we added Slang! ;)  *thank you to urbanDictionary*
+#-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+# The basic grammar rules.  Here's what the abbreviations stand for:
+#    S  = sentence
+#    NP = noun phrase
+#    VP = verb phrase
+#    PP = prepositional phrase
+#    Det = determiner (sometimes called "article")
+#    Prep = preposition
+#    JJ = adjective
+
+#-------------------------------------------------------------------------------------------------------
+
+
+#   we prefer Sentence that ends with '.' then the other forms are equal
+8	ROOT	S .
+1	ROOT	S !
+1	ROOT	is it true that S ?
+
+5	ROOT	QS ?        #part 4 adding
+
+
+#------------------------------------------------------------------------------------------------------
+
+12	S	NP VPExtended           #  S can be NP VP(the usuall we saw in lec 5)
+4	S	NP is JJ		        # "Sally is lazy"(example H)
+1	S	it VerbPTE NP SBAR	    # "it perplexed the president that a ..."(example E)
+1  	S   NNP is NP               # "sally is a sandwich."(I)
+
+1	SBAR	that S			    # sentences with complementry before them(from lec)
+
+
+#------------------------------------------------------------------------------------------------------
+
+8	VPExtended	VP                  # most of the times only VP
+2	VPExtended	VP Conj VP		    # wanted and ate...(example B)
+
+4	VP	VerbPT NP                   # "ate a sandwich"(example B)
+2   VP  VerbPT                      # "Wanted"(example B)
+6	VP	is VerbPS NP	            # "is eating a sandwich"(example I)
+3	VP	VerbPTTerminal	            # "sighed"(example c)
+1	VP	VerbPTTerminal PP PP	    # "worked on every proposal on the desk ."(g)
+1	VP	VerbPTSbar SBAR	            # " thought that a sandwich sighed ."(example d) + was used in example J
+
+
+
+
+#------------------------------------------------------------------------------------------------------
+
+6	NP	NounExtended                        # can be only sally
+1	NP	NounExtended Conj NounExtended		# (b) sally and president ...
+
+3	NounExtended	Det Noun                # "the very very very"(example f)
+1	NounExtended	NNP
+
+
+
+
+#------------------------------------------------------------------------------------------------------
+
+
+1	PP  Prep NP
+3	Noun    JJ Noun			                 # "very very..."(example f)
+
+
+
+#-----------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------
+#-----------------------------------------Grammar4(adding A/AN)---------------------------------------
+
+# for full info look at answers.odt!
+
+# extending NounExtend to support A,An:
+
+1	NounExtended	ArticleA Noun
+1	NounExtended	ArticleAN ANnoun
+
+# extending
+1   Noun     JJ   ANnoun    # "a beautiful apple" (if there is ArticleA before)
+1   ANnoun   ANjj ANnoun    # "an (can add awfully)ambivalent apple"
+1   ANnoun   ANjj Noun      # "an (can add awfully)ambivalent president(regular noun)"
+
+# adding to adjectives
+
+1   JJ   Adv JJ             # "a (can add very) beautiful apple"
+1   ANjj   ANadv   ANjj
+
+
+1	ArticleA	a
+1	ArticleAN	an
+
+
+1   ANnoun   apple
+1   ANnoun   elf
+
+1   Adv     very
+1   ANadv   awfully
+
+1   ANjj    extraordinary
+1   ANjj    ordinary
+1   ANjj    ambivalent
+
+#----------------------------------------Yes-No-Question-----------------------------------------------------
+
+1	QS	Past
+1	QS	Future
+1	QS	Present
+
+1	Past	did NP InVerbOne
+1	Past	did NP TransVerbOne NP
+1	Future	will NP InVerbOne
+1	Future	will NP TransVerbOne NP
+1	Present	is NP VerbPS NP
+1	Present	is NP VerbPTE
+1	Present	is NP JJ
+
+			# Transitive verb1 verbs
+1	TransVerbOne eat
+1	TransVerbOne buy
+1	TransVerbOne make
+
+			# Intransitive verb1 verbs
+1	InVerbOne jump
+1	InVerbOne run
+1	InVerbOne sing
+
+#-----------------------Part-5------------------------------------------------------------------
+
+3	ROOT	the heck!?, S
+3	ROOT	S ,for real!
+3	ROOT	bro, S
+
+1	VerbPS	kickin'
+1	VerbPS	chillin' with       # relax with
+1	VerbPS	showin'             # to show
+1	VerbPS	bailing             # to bail...
+1	VerbPS	annoying
+1 	VerbPS  gonna kill          # going to kill
+1	VerbPS  carring a torch to  # love in secret
+1	VerbPS  going out with      # dating
+1	VerbPS  jump shiping        #to abandon
+
+
+1	VerbPT	knocked up          # speak negetively
+1	VerbPT	tweeted
+1	VerbPT  hung out with       # go out with
+
+
+1	VerbPTE	chilled             #relaxed
+1	VerbPTE	wasted              # tired
+
+
+1	VerbPTTerminal	bailed	# (bail) leaving abruply
+
+1	JJ	ignant	        # ignorant
+1	JJ	bitter	        # abbreviated form of bitterly cold.
+1	JJ	skunky	        # smells bad
+1	JJ	delish          # delicious
+1	JJ	hyped	        # A very excited state
+1	JJ	dope	        # cool
+1	JJ	lit	            # cool
+1	JJ	over the top	#excessive
+1	JJ	bum	            # lazy person
+1	JJ	broke	        #poor
+1	JJ	frickin
+
+1	Noun	bro
+1	Noun	pretty boi
+1	Noun	cheerleader
+1	Noun	bum	        # homeless
+
+#-----------------------------------------------------------------------------------------------------
+#---------------------------------------  Vocabulary: ------------------------------------------------
+                                    #verbs in present tense:
+1	VerbPS	eating
+1	VerbPS	pickling
+1	VerbPS	kissing
+1	VerbPS	understanding
+
+                                    #regular past tense verbs:
+2	VerbPT	ate
+1	VerbPT	pickled
+2	VerbPT	wanted
+1	VerbPT	kissed
+2	VerbPT	understood
+
+                                    #verbs that end sentence(sighed like in the examples)
+1	VerbPTTerminal	sighed
+1	VerbPTTerminal	ate
+1	VerbPTTerminal	understood
+1	VerbPTTerminal	worked
+
+                                    #verbs that describe emotions:
+1	VerbPTE	perplexed
+1	VerbPTE	pissed off
+1	VerbPTE	annoyed
+1	VerbPTE	pleased
+1	VerbPTE	calmed down
+
+                                    # verbs that can be followed by SBAR:[v5]
+1	VerbPTSbar	understood
+1	VerbPTSbar	thought
+1	VerbPTSbar	realised
+1	VerbPTSbar	said
+                                    #Dets:
+1	Det	the
+1	Det	every
+
+                                    #regular nouns:(NN- plural nouns)
+1	Noun	president
+1	Noun	sandwich
+1	Noun	chief of staff
+1	Noun	floor
+1	Noun	desk
+1   	Noun    proposal
+1	Noun	pickle
+
+
+                                    #NNP(names like ibm,sally,gates):
+1	NNP	Sally
+2	NNP	Aviv
+2	NNP	Obama
+2	NNP	Itay
+
+
+                                    #adjectives:
+
+2	JJ	lazy
+2	JJ	fine
+2	JJ	delicious
+1	JJ	perplexed
+1	JJ	pickled
+
+
+
+                                    #prepositions:(was 'IN' in the lecture)
+1	Prep	with
+1	Prep	under
+1	Prep	in
+1	Prep	on
+
+
+
+                                    #conjunctions:
+1	Conj	and
+1	Conj	or

@@ -1,0 +1,49 @@
+﻿Hello, lets discuss the results:
+
+For the MEMM models:
+
+1)86% accuracy on “dev”  with MaxEnt Greedy Tagger
+
+by your script:
+
+Accuracy: 0.863546473303
+
+All-types 	Prec:0.387164150764 Rec:0.686300908785
+       LOC 	Prec:0.40708915145 Rec:0.825258573762
+      MISC 	Prec:0.446104589114 Rec:0.453362255965
+       PER 	Prec:0.364331210191 Rec:0.776330076004
+       ORG 	Prec:0.366718027735 Rec:0.532438478747
+
+2)90% accuracy on “dev” with MEMM and viterbi decoder.
+
+Accuracy: 0.909632013649
+
+All-types 	Prec:0.448069440287 Rec:0.503870750589
+       LOC 	Prec:0.423112338858 Rec:0.500272182907
+      MISC 	Prec:0.513554216867 Rec:0.369848156182
+       PER 	Prec:0.61014084507 Rec:0.587947882736
+       ORG 	Prec:0.314340898117 Rec:0.485458612975
+
+
+
+
+3) HMM (with Viterbi Decoder)
+Accuracy: 0.962445228586
+
+All-types 	Prec:0.808142493639 Rec:0.80175025244
+       LOC 	Prec:0.875729288215 Rec:0.817093086554
+      MISC 	Prec:0.806752037253 Rec:0.751626898048
+       PER 	Prec:0.886674259681 Rec:0.845276872964
+       ORG 	Prec:0.64687100894 Rec:0.755406413125
+
+
+“Why”s:
+-span-based F scores are lower than the accuracy scores?
+Spans are tokens sequences. So one tag that’s not fit ruin the whole span, while the per-token accuracy stay pretty much the same.
+
+-The NER results are lower than the POS results?
+In my opinion, NER results are lower because the dataset that given is smaller than the corpus that used for the POS-tagging.
+A way to improve the result is to use additional sources of name entities like the one that given to us - twitter_nlp lexicon.
+
+Improve the MEMM tagger on the NER data:
+we can stop looking on the next words, only the previouses and we can decrease the context size.

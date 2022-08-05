@@ -1,0 +1,200 @@
+tag=IN form=In sig=^A nw=an nnw=Oct. pt=start ppt=start 
+tag=DT form=an sig=^an pw=In nw=Oct. nnw=19 pt=IN ppt=start 
+tag=NNP form=Oct. sig=^A pw=an ppw=In nw=19 nnw=review pt=DT ppt=IN 
+tag=CD form=19 sig=^num pw=Oct. ppw=an nw=review nnw=of pt=NNP ppt=DT 
+tag=NN form=review sig=^UNK pw=19 ppw=Oct. nw=of nnw=`` pt=CD ppt=NNP 
+tag=IN form=of sig=^UNK pw=review ppw=19 nw=`` nnw=The pt=NN ppt=CD 
+tag=`` form=`` sig=^$ pw=of ppw=review nw=The nnw=Misanthrope pt=IN ppt=NN 
+tag=DT form=The sig=^A pw=`` ppw=of nw=Misanthrope nnw='' pt=`` ppt=IN 
+tag=NN form=Misanthrope sig=^A pw=The ppw=`` nw='' nnw=at pt=DT ppt=`` 
+tag='' form='' sig=^num pw=Misanthrope ppw=The nw=at nnw=Chicago pt=NN ppt=DT 
+tag=IN form=at sig=^UNK pw='' ppw=Misanthrope nw=Chicago nnw='s pt='' ppt=NN 
+tag=NNP form=Chicago sig=^A pw=at ppw='' nw='s nnw=Goodman pt=IN ppt='' 
+tag=POS form='s sig=^s pw=Chicago ppw=at nw=Goodman nnw=Theatre pt=NNP ppt=IN 
+tag=NNP form=Goodman sig=^A pw='s ppw=Chicago nw=Theatre nnw=( pt=POS ppt=NNP 
+tag=NNP form=Theatre sig=^A pw=Goodman ppw='s nw=( nnw=`` pt=NNP ppt=POS 
+tag=( form=( sig=^$ pw=Theatre ppw=Goodman nw=`` nnw=Revitalized pt=NNP ppt=NNP 
+tag=`` form=`` sig=^$ pw=( ppw=Theatre nw=Revitalized nnw=Classics pt=( ppt=NNP 
+tag=VBN form=Revitalized sig=^A pw=`` ppw=( nw=Classics nnw=Take pt=`` ppt=( 
+tag=NNS form=Classics sig=^A pw=Revitalized ppw=`` nw=Take nnw=the pt=VBN ppt=`` 
+tag=VBP form=Take sig=^A pw=Classics ppw=Revitalized nw=the nnw=Stage pt=NNS ppt=VBN 
+tag=DT form=the sig=^UNK pw=Take ppw=Classics nw=Stage nnw=in pt=VBP ppt=NNS 
+tag=NN form=Stage sig=^A pw=the ppw=Take nw=in nnw=Windy pt=DT ppt=VBP 
+tag=IN form=in sig=^in pw=Stage ppw=the nw=Windy nnw=City pt=NN ppt=DT 
+tag=NNP form=Windy sig=^A pw=in ppw=Stage nw=City nnw=, pt=IN ppt=NN 
+tag=NNP form=City sig=^A 3suff=ity pw=Windy ppw=in nw=, nnw='' pt=NNP ppt=IN 
+tag=, form=, sig=^$ pw=City ppw=Windy nw='' nnw=Leisure pt=NNP ppt=NNP 
+tag='' form='' sig=^num pw=, ppw=City nw=Leisure nnw=& pt=, ppt=NNP 
+tag=NN form=Leisure sig=^A pw='' ppw=, nw=& nnw=Arts pt='' ppt=, 
+tag=CC form=& sig=^$ pw=Leisure ppw='' nw=Arts nnw=) pt=NN ppt='' 
+tag=NNS form=Arts sig=^A pw=& ppw=Leisure nw=) nnw=, pt=CC ppt=NN 
+tag=) form=) sig=^$ pw=Arts ppw=& nw=, nnw=the pt=NNS ppt=CC 
+tag=, form=, sig=^$ pw=) ppw=Arts nw=the nnw=role pt=) ppt=NNS 
+tag=DT form=the sig=^UNK pw=, ppw=) nw=role nnw=of pt=, ppt=) 
+tag=NN form=role sig=^UNK pw=the ppw=, nw=of nnw=Celimene pt=DT ppt=, 
+tag=IN form=of sig=^UNK pw=role ppw=the nw=Celimene nnw=, pt=NN ppt=DT 
+tag=NNP form=Celimene sig=^A pw=of ppw=role nw=, nnw=played pt=IN ppt=NN 
+tag=, form=, sig=^$ pw=Celimene ppw=of nw=played nnw=by pt=NNP ppt=IN 
+tag=VBN form=played sig=^ed pw=, ppw=Celimene nw=by nnw=Kim pt=, ppt=NNP 
+tag=IN form=by sig=^UNK pw=played ppw=, nw=Kim nnw=Cattrall pt=VBN ppt=, 
+tag=NNP form=Kim sig=^A pw=by ppw=played nw=Cattrall nnw=, pt=IN ppt=VBN 
+tag=NNP form=Cattrall sig=^A pw=Kim ppw=by nw=, nnw=was pt=NNP ppt=IN 
+tag=, form=, sig=^$ pw=Cattrall ppw=Kim nw=was nnw=mistakenly pt=NNP ppt=NNP 
+tag=VBD form=was sig=^s pw=, ppw=Cattrall nw=mistakenly nnw=attributed pt=, ppt=NNP 
+tag=RB form=mistakenly sig=^ly pw=was ppw=, nw=attributed nnw=to pt=VBD ppt=, 
+tag=VBN form=attributed sig=^ed pw=mistakenly ppw=was nw=to nnw=Christina pt=RB ppt=VBD 
+tag=IN form=to sig=^UNK pw=attributed ppw=mistakenly nw=Christina nnw=Haag pt=VBN ppt=RB 
+tag=NNP form=Christina sig=^A pw=to ppw=attributed nw=Haag nnw=. pt=IN ppt=VBN 
+tag=NNP form=Haag sig=^A pw=Christina ppw=to nw=. nnw=end pt=NNP ppt=IN 
+tag=. form=. sig=^$ pw=Haag ppw=Christina nw=endnnw=end pt=NNP ppt=NNP 
+tag=NNP form=Ms. sig=^A nw=Haag nnw=plays pt=start ppt=start 
+tag=NNP form=Haag sig=^A pw=Ms. nw=plays nnw=Elianti pt=NNP ppt=start 
+tag=VBZ form=plays sig=^s pw=Haag ppw=Ms. nw=Elianti nnw=. pt=NNP ppt=NNP 
+tag=NNP form=Elianti sig=^A pw=plays ppw=Haag nw=. nnw=end pt=VBZ ppt=NNP 
+tag=. form=. sig=^$ pw=Elianti ppw=plays nw=endnnw=end pt=NNP ppt=VBZ 
+tag=NNP form=Rolls-Royce sig=^A nw=Motor nnw=Cars pt=start ppt=start 
+tag=NNP form=Motor sig=^A pw=Rolls-Royce nw=Cars nnw=Inc. pt=NNP ppt=start 
+tag=NNPS form=Cars sig=^A pw=Motor ppw=Rolls-Royce nw=Inc. nnw=said pt=NNP ppt=NNP 
+tag=NNP form=Inc. sig=^A pw=Cars ppw=Motor nw=said nnw=it pt=NNPS ppt=NNP 
+tag=VBD form=said sig=^UNK pw=Inc. ppw=Cars nw=it nnw=expects pt=NNP ppt=NNPS 
+tag=PRP form=it sig=^UNK pw=said ppw=Inc. nw=expects nnw=its pt=VBD ppt=NNP 
+tag=VBZ form=expects sig=^s pw=it ppw=said nw=its nnw=U.S. pt=PRP ppt=VBD 
+tag=PRP$ form=its sig=^s pw=expects ppw=it nw=U.S. nnw=sales pt=VBZ ppt=PRP 
+tag=NNP form=U.S. sig=^A pw=its ppw=expects nw=sales nnw=to pt=PRP$ ppt=VBZ 
+tag=NNS form=sales sig=^es pw=U.S. ppw=its nw=to nnw=remain pt=NNP ppt=PRP$ 
+tag=TO form=to sig=^UNK pw=sales ppw=U.S. nw=remain nnw=steady pt=NNS ppt=NNP 
+tag=VB form=remain sig=^UNK pw=to ppw=sales nw=steady nnw=at pt=TO ppt=NNS 
+tag=JJ form=steady sig=^UNK pw=remain ppw=to nw=at nnw=about pt=VB ppt=TO 
+tag=IN form=at sig=^UNK pw=steady ppw=remain nw=about nnw=1,200 pt=JJ ppt=VB 
+tag=IN form=about sig=^ab pw=at ppw=steady nw=1,200 nnw=cars pt=IN ppt=JJ 
+tag=CD form=1,200 sig=^num pw=about ppw=at nw=cars nnw=in pt=IN ppt=IN 
+tag=NNS form=cars sig=^s pw=1,200 ppw=about nw=in nnw=1990 pt=CD ppt=IN 
+tag=IN form=in sig=^in pw=cars ppw=1,200 nw=1990 nnw=. pt=NNS ppt=CD 
+tag=CD form=1990 sig=^num pw=in ppw=cars nw=. nnw=end pt=IN ppt=NNS 
+tag=. form=. sig=^$ pw=1990 ppw=in nw=endnnw=end pt=CD ppt=IN 
+tag=DT form=The sig=^A nw=luxury nnw=auto pt=start ppt=start 
+tag=NN form=luxury sig=^UNK pw=The nw=auto nnw=maker pt=DT ppt=start 
+tag=NN form=auto sig=^UNK pw=luxury ppw=The nw=maker nnw=last pt=NN ppt=DT 
+tag=NN form=maker sig=^er pw=auto ppw=luxury nw=last nnw=year pt=NN ppt=NN 
+tag=JJ form=last sig=^UNK pw=maker ppw=auto nw=year nnw=sold pt=NN ppt=NN 
+tag=NN form=year sig=^UNK pw=last ppw=maker nw=sold nnw=1,214 pt=JJ ppt=NN 
+tag=VBD form=sold sig=^UNK pw=year ppw=last nw=1,214 nnw=cars pt=NN ppt=JJ 
+tag=CD form=1,214 sig=^num pw=sold ppw=year nw=cars nnw=in pt=VBD ppt=NN 
+tag=NNS form=cars sig=^s pw=1,214 ppw=sold nw=in nnw=the pt=CD ppt=VBD 
+tag=IN form=in sig=^in pw=cars ppw=1,214 nw=the nnw=U.S. pt=NNS ppt=CD 
+tag=DT form=the sig=^UNK pw=in ppw=cars nw=U.S. nnw=end pt=IN ppt=NNS 
+tag=NNP form=U.S. sig=^A pw=the ppw=in nw=endnnw=end pt=DT ppt=IN 
+tag=NNP form=Howard sig=^A nw=Mosher nnw=, pt=start ppt=start 
+tag=NNP form=Mosher sig=^A pw=Howard nw=, nnw=president pt=NNP ppt=start 
+tag=, form=, sig=^$ pw=Mosher ppw=Howard nw=president nnw=and pt=NNP ppt=NNP 
+tag=NN form=president sig=^UNK pw=, ppw=Mosher nw=and nnw=chief pt=, ppt=NNP 
+tag=CC form=and sig=^an pw=president ppw=, nw=chief nnw=executive pt=NN ppt=, 
+tag=JJ form=chief sig=^UNK pw=and ppw=president nw=executive nnw=officer pt=CC ppt=NN 
+tag=NN form=executive sig=^UNK 3suff=ive pw=chief ppw=and nw=officer nnw=, pt=JJ ppt=CC 
+tag=NN form=officer sig=^er pw=executive ppw=chief nw=, nnw=said pt=NN ppt=JJ 
+tag=, form=, sig=^$ pw=officer ppw=executive nw=said nnw=he pt=NN ppt=NN 
+tag=VBD form=said sig=^UNK pw=, ppw=officer nw=he nnw=anticipates pt=, ppt=NN 
+tag=PRP form=he sig=^UNK pw=said ppw=, nw=anticipates nnw=growth pt=VBD ppt=, 
+tag=VBZ form=anticipates sig=^es pw=he ppw=said nw=growth nnw=for pt=PRP ppt=VBD 
+tag=NN form=growth sig=^UNK pw=anticipates ppw=he nw=for nnw=the pt=VBZ ppt=PRP 
+tag=IN form=for sig=^UNK pw=growth ppw=anticipates nw=the nnw=luxury pt=NN ppt=VBZ 
+tag=NNS form=airplanes sig=^es pw=the ppw=fly nw=. nnw=end pt=DT ppt=VB 
+tag=. form=. sig=^$ pw=airplanes ppw=the nw=endnnw=end pt=NNS ppt=DT 
+tag=IN form=If sig=^A nw=they nnw=were pt=start ppt=start 
+tag=PRP form=they sig=^UNK pw=If nw=were nnw=to pt=IN ppt=start 
+tag=VBD form=were sig=^UNK pw=they ppw=If nw=to nnw=insist pt=PRP ppt=IN 
+tag=TO form=to sig=^UNK pw=were ppw=they nw=insist nnw=on pt=VBD ppt=PRP 
+tag=VB form=insist sig=^in 3suff=ist pw=to ppw=were nw=on nnw=a pt=TO ppt=VBD 
+tag=IN form=on sig=^UNK pw=insist ppw=to nw=a nnw=low pt=VB ppt=TO 
+tag=DT form=a sig=^UNK pw=on ppw=insist nw=low nnw=bid pt=IN ppt=VB 
+tag=JJ form=low sig=^UNK pw=a ppw=on nw=bid nnw=of pt=DT ppt=IN 
+tag=NN form=bid sig=^UNK pw=low ppw=a nw=of nnw=, pt=JJ ppt=DT 
+tag=IN form=of sig=^UNK pw=bid ppw=low nw=, nnw=say pt=NN ppt=JJ 
+tag=, form=, sig=^$ pw=of ppw=bid nw=say nnw=$ pt=IN ppt=NN 
+tag=VB form=say sig=^UNK pw=, ppw=of nw=$ nnw=200 pt=, ppt=IN 
+tag=$ form=$ sig=^$ pw=say ppw=, nw=200 nnw=a pt=VB ppt=, 
+tag=CD form=200 sig=^num pw=$ ppw=say nw=a nnw=share pt=$ ppt=VB 
+tag=DT form=a sig=^UNK pw=200 ppw=$ nw=share nnw=, pt=CD ppt=$ 
+tag=NN form=share sig=^UNK pw=a ppw=200 nw=, nnw=the pt=DT ppt=CD 
+tag=, form=, sig=^$ pw=share ppw=a nw=the nnw=board pt=NN ppt=DT 
+tag=DT form=the sig=^UNK pw=, ppw=share nw=board nnw=might pt=, ppt=NN 
+tag=NN form=board sig=^UNK pw=the ppw=, nw=might nnw=n't pt=DT ppt=, 
+tag=MD form=might sig=^UNK pw=board ppw=the nw=n't nnw=be pt=NN ppt=DT 
+tag=RB form=n't sig=^$ pw=might ppw=board nw=be nnw=able pt=MD ppt=NN 
+tag=VB form=be sig=^UNK pw=n't ppw=might nw=able nnw=to pt=RB ppt=MD 
+tag=JJ form=able sig=^ab pw=be ppw=n't nw=to nnw=obtain pt=VB ppt=RB 
+tag=TO form=to sig=^UNK pw=able ppw=be nw=obtain nnw=a pt=JJ ppt=VB 
+tag=VB form=obtain sig=^UNK pw=to ppw=able nw=a nnw=higher pt=TO ppt=JJ 
+tag=DT form=a sig=^UNK pw=obtain ppw=to nw=higher nnw=offer pt=VB ppt=TO 
+tag=JJR form=higher sig=^er pw=a ppw=obtain nw=offer nnw=from pt=DT ppt=VB 
+tag=NN form=offer sig=^er pw=higher ppw=a nw=from nnw=other pt=JJR ppt=DT 
+tag=IN form=from sig=^UNK pw=offer ppw=higher nw=other nnw=bidders pt=NN ppt=JJR 
+tag=JJ form=other sig=^er pw=from ppw=offer nw=bidders nnw=because pt=IN ppt=NN 
+tag=NNS form=bidders sig=^s pw=other ppw=from nw=because nnw=banks pt=JJ ppt=IN 
+tag=IN form=because sig=^UNK pw=bidders ppw=other nw=banks nnw=might pt=NNS ppt=JJ 
+tag=NNS form=banks sig=^s pw=because ppw=bidders nw=might nnw=hesitate pt=IN ppt=NNS 
+tag=MD form=might sig=^UNK pw=banks ppw=because nw=hesitate nnw=to pt=NNS ppt=IN 
+tag=VB form=hesitate sig=^UNK 3suff=ate pw=might ppw=banks nw=to nnw=finance pt=MD ppt=NNS 
+tag=TO form=to sig=^UNK pw=hesitate ppw=might nw=finance nnw=a pt=VB ppt=MD 
+tag=VB form=finance sig=^UNK pw=to ppw=hesitate nw=a nnw=transaction pt=TO ppt=VB 
+tag=DT form=a sig=^UNK pw=finance ppw=to nw=transaction nnw=the pt=VB ppt=TO 
+tag=NN form=transaction sig=^UNK pw=a ppw=finance nw=the nnw=pilots pt=DT ppt=VB 
+tag=DT form=the sig=^UNK pw=transaction ppw=a nw=pilots nnw=oppose pt=NN ppt=DT 
+tag=NNS form=pilots sig=^s pw=the ppw=transaction nw=oppose nnw=. pt=DT ppt=NN 
+tag=VBP form=oppose sig=^UNK pw=pilots ppw=the nw=. nnw=end pt=NNS ppt=DT 
+tag=. form=. sig=^$ pw=oppose ppw=pilots nw=endnnw=end pt=VBP ppt=NNS 
+tag=RB form=Also sig=^A nw=, nnw=because pt=start ppt=start 
+tag=, form=, sig=^$ pw=Also nw=because nnw=UAL pt=RB ppt=start 
+tag=IN form=because sig=^UNK pw=, ppw=Also nw=UAL nnw=Chairman pt=, ppt=RB 
+tag=NNP form=UAL sig=^AAA pw=because ppw=, nw=Chairman nnw=Stephen pt=IN ppt=, 
+tag=NNP form=Chairman sig=^A pw=UAL ppw=because nw=Stephen nnw=Wolf pt=NNP ppt=IN 
+tag=NNP form=Stephen sig=^A pw=Chairman ppw=UAL nw=Wolf nnw=and pt=NNP ppt=NNP 
+tag=NNP form=Wolf sig=^A pw=Stephen ppw=Chairman nw=and nnw=other pt=NNP ppt=NNP 
+tag=CC form=and sig=^an pw=Wolf ppw=Stephen nw=other nnw=UAL pt=NNP ppt=NNP 
+tag=JJ form=other sig=^er pw=and ppw=Wolf nw=UAL nnw=executives pt=CC ppt=NNP 
+tag=NNP form=UAL sig=^AAA pw=other ppw=and nw=executives nnw=have pt=JJ ppt=CC 
+tag=NNS form=executives sig=^es pw=UAL ppw=other nw=have nnw=joined pt=NNP ppt=JJ 
+tag=VBP form=have sig=^UNK pw=executives ppw=UAL nw=joined nnw=the pt=NNS ppt=NNP 
+tag=VBN form=joined sig=^ed pw=have ppw=executives nw=the nnw=pilots pt=VBP ppt=NNS 
+tag=DT form=the sig=^UNK pw=joined ppw=have nw=pilots nnw=' pt=VBN ppt=VBP 
+tag=NNS form=pilots sig=^s pw=the ppw=joined nw=' nnw=bid pt=DT ppt=VBN 
+tag=POS form=' sig=^$ pw=pilots ppw=the nw=bid nnw=, pt=NNS ppt=DT 
+tag=NN form=bid sig=^UNK pw=' ppw=pilots nw=, nnw=the pt=POS ppt=NNS 
+tag=, form=, sig=^$ pw=bid ppw=' nw=the nnw=board pt=NN ppt=POS 
+tag=DT form=the sig=^UNK pw=, ppw=bid nw=board nnw=might pt=, ppt=NN 
+tag=NN form=board sig=^UNK pw=the ppw=, nw=might nnw=be pt=DT ppt=, 
+tag=MD form=might sig=^UNK pw=board ppw=the nw=be nnw=forced pt=NN ppt=DT 
+tag=VB form=be sig=^UNK pw=might ppw=board nw=forced nnw=to pt=MD ppt=NN 
+tag=VBN form=forced sig=^ed pw=be ppw=might nw=to nnw=exclude pt=VB ppt=MD 
+tag=TO form=to sig=^UNK pw=forced ppw=be nw=exclude nnw=him pt=VBN ppt=VB 
+tag=VB form=exclude sig=^UNK pw=to ppw=forced nw=him nnw=from pt=TO ppt=VBN 
+tag=PRP form=him sig=^UNK pw=exclude ppw=to nw=from nnw=its pt=VB ppt=TO 
+tag=IN form=from sig=^UNK pw=him ppw=exclude nw=its nnw=deliberations pt=PRP ppt=VB 
+tag=PRP$ form=its sig=^s pw=from ppw=him nw=deliberations nnw=in pt=IN ppt=PRP 
+tag=NNS form=deliberations sig=^de pw=its ppw=from nw=in nnw=order pt=PRP$ ppt=IN 
+tag=IN form=in sig=^in pw=deliberations ppw=its nw=order nnw=to pt=NNS ppt=PRP$ 
+tag=NN form=order sig=^er pw=in ppw=deliberations nw=to nnw=be pt=IN ppt=NNS 
+tag=TO form=to sig=^UNK pw=order ppw=in nw=be nnw=fair pt=NN ppt=IN 
+tag=VB form=be sig=^UNK pw=to ppw=order nw=fair nnw=to pt=TO ppt=NN 
+tag=JJ form=fair sig=^UNK pw=be ppw=to nw=to nnw=other pt=VB ppt=TO 
+tag=IN form=to sig=^UNK pw=fair ppw=be nw=other nnw=bidders pt=JJ ppt=VB 
+tag=JJ form=other sig=^er pw=to ppw=fair nw=bidders nnw=. pt=IN ppt=JJ 
+tag=NNS form=bidders sig=^s pw=other ppw=to nw=. nnw=end pt=JJ ppt=IN 
+tag=. form=. sig=^$ pw=bidders ppw=other nw=endnnw=end pt=NNS ppt=JJ 
+tag=DT form=That sig=^A nw=could nnw=cost pt=start ppt=start 
+tag=MD form=could sig=^UNK pw=That nw=cost nnw=him pt=DT ppt=start 
+tag=VB form=cost sig=^UNK pw=could ppw=That nw=him nnw=the pt=MD ppt=DT 
+tag=PRP form=him sig=^UNK pw=cost ppw=could nw=the nnw=chance pt=VB ppt=MD 
+tag=DT form=the sig=^UNK pw=him ppw=cost nw=chance nnw=to pt=PRP ppt=VB 
+tag=NN form=chance sig=^UNK pw=the ppw=him nw=to nnw=influence pt=DT ppt=PRP 
+tag=TO form=to sig=^UNK pw=chance ppw=the nw=influence nnw=the pt=NN ppt=DT 
+tag=VB form=influence sig=^in pw=to ppw=chance nw=the nnw=outcome pt=TO ppt=NN 
+tag=DT form=the sig=^UNK pw=influence ppw=to nw=outcome nnw=and pt=VB ppt=TO 
+tag=NN form=outcome sig=^UNK pw=the ppw=influence nw=and nnw=perhaps pt=DT ppt=VB 
+tag=CC form=and sig=^an pw=outcome ppw=the nw=perhaps nnw=join pt=NN ppt=DT 
+tag=RB form=perhaps sig=^s pw=and ppw=outcome nw=join nnw=the pt=CC ppt=NN 
+tag=VB form=join sig=^UNK pw=perhaps ppw=and nw=the nnw=winning pt=RB ppt=CC 
+tag=DT form=the sig=^UNK pw=join ppw=perhaps nw=winning nnw=bidder pt=VB ppt=RB 
+tag=VBG form=winning sig=^ing 3suff=ing pw=the ppw=join nw=bidder nnw=. pt=DT ppt=VB 
+tag=NN form=bidder sig=^er pw=winning ppw=the nw=. nnw=end pt=VBG ppt=DT 
+tag=. form=. sig=^$ pw=bidder ppw=winning nw=endnnw=end pt=NN ppt=VBG 

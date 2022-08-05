@@ -1,0 +1,18 @@
+Hello, ( by Aviv Shisman 206558157  Itay Hassid 209127596)
+
+for running our project please download X_test,y_test,x4pred
+and data folder(for training)
+from the link
+https://drive.google.com/open?id=1UscWJAdWZMNBFfVaX9vLP3HUrgoj7YMJ
+
+you can also see our full project there.
+
+*in ANY CASE the code don't work just donwnload the full folder in the link*
+
+i added here the writeUP, code and predictions file but you can't run 
+the code without the files above(test_x,y for acc% testing,
+x4pred for prediction and data for training).
+
+
+
+thank you!

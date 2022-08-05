@@ -1,0 +1,98 @@
+sent1656	Mrs. Tsuruyama	Live_In	Kumamoto Prefecture	( Mrs. Tsuruyama is from Yatsushiro in Kumamoto Prefecture in southern Japan .)
+
+sent1866	Roland Dumas	Live_In	France.	( ` ` This constitutes a great first step forward on the path which should provide a return to peace for this country , ' ' said Foreign Roland Dumas of France.)
+
+sent1901	Betty Barrow	Live_In	High Island.	( ` ` We get worse thunderstorms than this , ' ' said Betty Barrow , a 28-year resident who remained on High Island.)
+
+sent1902	Ms. Barrow	Live_In	High Island	( Chantal knocked out power on High Island shortly after 7 a.m. , but the few businesses in town remained open , including a grocery where Ms. Barrow was on duty.)
+
+sent1908	Malcolm Grant	Live_In	Port Arthur	( Port Arthur Mayor Malcolm Grant asked the 800 residents of Sabine Pass to evacuate the coastal community just west of the Louisiana line , citing the likelihood of high water closing the only highway between the town and Port Arthur.)
+
+sent1908	Malcolm Grant	Live_In	Port Arthur.	( Port Arthur Mayor Malcolm Grant asked the 800 residents of Sabine Pass to evacuate the coastal community just west of the Louisiana line , citing the likelihood of high water closing the only highway between the town and Port Arthur.)
+
+sent2055	Branstad	Live_In	Iowa	( Iowa Republican Terry Branstad was installed as new chairman of the bipartisan National Governors ' Association , and Democrat Booth Gardner of Washington was selected to serve as vice to follow Branstad as chairman in a year.)
+
+sent2194	Mason	Live_In	Atlanta	( Mason , who headed the Centers for Disease Control in Atlanta before being appointed to the No. 2 HHS job by President Bush , said he faces a similar dilemma in the emerging fiscal 1990 budget because the AZT program is authorized at $30 million but not included in the appropriations bill scheduled for debate later this week.)
+
+sent2223	Bush	Live_In	United States	( President Bush announced Tuesday the United States will provide up to $50 million in food aid for Poland to help avert shortages in the country as it struggles to reform its government and economy.)
+
+sent2255	Anderson	Live_In	Middle East	( Anderson , 41 , was the chief Middle East correspondent for The Associated Press when he was kidnapped in Beirut on March 16 , 1985.)
+
+sent2291	Mikhail S. Gorbachev	Live_In	Soviet	( The study did not take into account recent promises by Soviet President Mikhail S. Gorbachev to reduce military spending. _When the Soviet total is combined with U.S. military spending of $296 billion , the superpower total exceeded the next largest spender by more than 8 -LCB- to 1 in 1987. France , West Germany and Great Britain assumed the third , fourth and fifth positions , respectively , in military spending in 1987.)
+
+sent2291	Mikhail S. Gorbachev	Live_In	Soviet	( The study did not take into account recent promises by Soviet President Mikhail S. Gorbachev to reduce military spending. _When the Soviet total is combined with U.S. military spending of $296 billion , the superpower total exceeded the next largest spender by more than 8 -LCB- to 1 in 1987. France , West Germany and Great Britain assumed the third , fourth and fifth positions , respectively , in military spending in 1987.)
+
+sent2364	Vladimir Ashkenazy	Live_In	Soviet	( A golden future seemed assured when , at 25 , Ogdon shared top place with Soviet pianist Vladimir Ashkenazy in the piano section of the 1962 Moscow Tchaikovsky International Competition for young musicians.)
+
+sent2424	Debra Sweiger	Live_In	Issaquah	( The dead woman was identified as Debra Sweiger of Issaquah , said King County O Investigator Vaughn Van Zant.)
+
+sent2424	Debra Sweiger	Live_In	King County	( The dead woman was identified as Debra Sweiger of Issaquah , said King County O Investigator Vaughn Van Zant.)
+
+sent2424	Vaughn Van Zant.	Live_In	King County	( The dead woman was identified as Debra Sweiger of Issaquah , said King County O Investigator Vaughn Van Zant.)
+
+sent2430	Sherman G. Finesilver	Live_In	U.S.	( Chief U.S. Sherman G. Finesilver told the 23 grand jurors their only task during the 18-month term would be ` ` to determine what criminal acts , if any , were committed at Rocky Flats nuclear weapons plant. ' ')
+
+sent2465	Kim Dae-jung	Live_In	South Korea	( Kim Dae-jung , head of South Korea 's leading opposition party , was detained on a court warrant Wednesday for questioning in connection with a party lawmaker 's illegal trip to communist North Korea.)
+
+sent2536	Harrington	Live_In	Larchmont	( Harrington , a professor of political science at Queens College of the City University of New York and honorary president of the Socialist International , died Monday night at his home in suburban Larchmont , the university said in a statement Tuesday.)
+
+sent2539	John Kennedy	Live_In	United States	( ` ` The luck was that the book came out at a time when there was a president of the United States who read books , John Kennedy , and he read it , ' ' Harrington said.)
+
+sent2603	Prateep Ungsongtham	Live_In	Bangkok.	( Another beacon of the better life is Prateep Ungsongtham , known as the ` ` Slum Angel of Bangkok. ' ')
+
+sent2643	Phillip Lieberman	Live_In	Providence	( Linguist Phillip Lieberman of Brown Univeristy in Providence , R.I. , was quoted as saying : ` ` At this point , the Kebara hyoid doesn 't tell us anything about the evolution of speech and language. ' ')
+
+sent2643	Phillip Lieberman	Live_In	R.I.	( Linguist Phillip Lieberman of Brown Univeristy in Providence , R.I. , was quoted as saying : ` ` At this point , the Kebara hyoid doesn 't tell us anything about the evolution of speech and language. ' ')
+
+sent2647	Jeffrey Laitman	Live_In	New York	( Anatomist Jeffrey Laitman of New York 's Mount Sinai School of Medicine also disputed the Kebara team 's findings.)
+
+sent2649	Dean Falk	Live_In	Albany	( Anthropoligist Dean Falk of State University of New York at Albany supports the Kebara findings in the Science News article.)
+
+sent2817	Warner	Live_In	Ocala	( Warner , who now lives in Ocala , Fla. , and filed the petition in U.S. Bankruptcy Court in Jacksonville , Fla. , sought protection from creditors seeking more than $4 billion from him.)
+
+sent2817	Warner	Live_In	Fla.	( Warner , who now lives in Ocala , Fla. , and filed the petition in U.S. Bankruptcy Court in Jacksonville , Fla. , sought protection from creditors seeking more than $4 billion from him.)
+
+sent2820	Warner	Live_In	U.S.	( Warner , a former U.S. ambassador to Switzerland , was convicted on Ohio felony charges in Home State 's collapse , but was acquitted of federal charges in a separate trial.)
+
+sent2820	Warner	Live_In	Switzerland	( Warner , a former U.S. ambassador to Switzerland , was convicted on Ohio felony charges in Home State 's collapse , but was acquitted of federal charges in a separate trial.)
+
+sent2882	Ernesto Perez Balladares	Live_In	the Republic	( -LRB- Text -RRB- The National Central Organization of Panamanian Workers -LRB- CNTP -RRB- , which comprises three workers ' federations and 16 unions for a total of 12 , 000 workers , has proclaimed its determination to support Dr. Ernesto Perez Balladares for the presidency of the Republic .)
+
+sent2887	Granic	Live_In	Croatia	( Croatia 's Granic Admits Downed Planes Took Off From Croatia LD0303083794 Moscow ITAR-TASS in English 0729 GMT 3 Mar 94)
+
+sent2887	Granic	Live_In	Croatia	( Croatia 's Granic Admits Downed Planes Took Off From Croatia LD0303083794 Moscow ITAR-TASS in English 0729 GMT 3 Mar 94)
+
+sent2906	Stalin	Live_In	Soviet	( The trud newspaper features the last part of the memoirs by former commander of the Soviet Navy Nikolai Kuznetsov who personally knew Stalin , under the headline " Stalin 's Death . ")
+
+sent2906	Stalin	Live_In	Soviet	( The trud newspaper features the last part of the memoirs by former commander of the Soviet Navy Nikolai Kuznetsov who personally knew Stalin , under the headline " Stalin 's Death . ")
+
+sent2917	Kravchuk	Live_In	Ukraine	( Kravchuk won over 60 percent of the votes and Chornovil , nearly 28 percent in Ukraine 's first presidential elections in December 1991 .)
+
+sent2917	Chornovil	Live_In	Ukraine	( Kravchuk won over 60 percent of the votes and Chornovil , nearly 28 percent in Ukraine 's first presidential elections in December 1991 .)
+
+sent2988	Cetin	Live_In	Turkey	( Cetin added that the ceremony , to which he was invited by his American counterpart Warren Christopher , showed once more the importance and weight of Turkey in the Balkans .)
+
+sent2988	Cetin	Live_In	Balkans	( Cetin added that the ceremony , to which he was invited by his American counterpart Warren Christopher , showed once more the importance and weight of Turkey in the Balkans .)
+
+sent2990	Cetin	Live_In	Turkey	( Evaluating Juppe 's visit , Cetin said that the French Government was not displaying a disturbing stand toward Turkey and was very careful in not intervening in Turkey 's internal affairs .)
+
+sent2990	Cetin	Live_In	Turkey	( Evaluating Juppe 's visit , Cetin said that the French Government was not displaying a disturbing stand toward Turkey and was very careful in not intervening in Turkey 's internal affairs .)
+
+sent2997	Samuel Bogran	Live_In	San Pedro Sula	( During the televised forum in which the candidates for the San Pedro Sula mayorship participated , the subject of industrial contamination was examined in greater depth by Nationalist candidate Samuel Bogran .)
+
+sent3034	Qian Qichen	Live_In	Beijing	( Qian Qichen Leaves Beijing for South Asian Tour OW2102114194 Beijing XINHUA in English 1127 GMT 21 Feb 94)
+
+sent3034	Qian Qichen	Live_In	Beijing	( Qian Qichen Leaves Beijing for South Asian Tour OW2102114194 Beijing XINHUA in English 1127 GMT 21 Feb 94)
+
+sent3036	Qian Qichen	Live_In	Beijing	( -LRB- Text -RRB- Beijing , February 21 -LRB- XINHUA -RRB- -- Chinese Vice-Premier and Foreign Qian Qichen left here this afternoon for a fortnight official good-will visit to Pakistan , Bangladesh , Sri Lanka , Maldives and Iran .)
+
+sent3073	Mickey Kantor	Live_In	U.S.	( U.S. -LRB- USTR -RRB- Mickey Kantor , who came to Japan amid the political confusion within the Hosokawa administration caused by the economic stimulation plan , stated before he left for home that " If we see no actual results , we might have to consider other options . ")
+
+sent3073	Hosokawa	Live_In	Japan	( U.S. -LRB- USTR -RRB- Mickey Kantor , who came to Japan amid the political confusion within the Hosokawa administration caused by the economic stimulation plan , stated before he left for home that " If we see no actual results , we might have to consider other options . ")
+
+sent3137	Franjo Tudjman	Live_In	Croatia	( Karadjordjevo " -RRB- -LRB- Text -RRB- We cannot remember the last time when -LRB- Croatian President -RRB- Franjo Tudjman was so cheery , excited , joyful , euphoric , and even somewhat melancholic , as he was last Wednesday , when in Geneva the declaration on the gradual normalization of the relations between the republic of Croatia and the FRY was signed .)
+
+sent3152	Mile Akmadzic	Live_In	Croatian Republic of Herceg-Bosna	( Such theories , which are not alone in the international press , find support in another agreement that was also signed in Geneva -- which the Croatian opposition ostensibly did not notice , to the great surprise and almost astonishment of all , and consequently did not comment on , although the integral text was published in Croatian newspapers -- the agreement signed between Mile Akmadzic , on behalf of the Croatian Republic of Herceg-Bosna , and Nikola Koljevic , on behalf of the Serbian Republic , in which both sides emphasize that " there are no disputed issues between them that cannot be solved in a peaceful way . ")
+
+sent3152	Nikola Koljevic	Live_In	Serbian Republic	( Such theories , which are not alone in the international press , find support in another agreement that was also signed in Geneva -- which the Croatian opposition ostensibly did not notice , to the great surprise and almost astonishment of all , and consequently did not comment on , although the integral text was published in Croatian newspapers -- the agreement signed between Mile Akmadzic , on behalf of the Croatian Republic of Herceg-Bosna , and Nikola Koljevic , on behalf of the Serbian Republic , in which both sides emphasize that " there are no disputed issues between them that cannot be solved in a peaceful way . ")
+
