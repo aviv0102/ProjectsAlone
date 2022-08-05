@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ass2.dir/ex2.c.o  -o ass2 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/magshimim/Desktop/operatinSystems/ex3/main.c
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+unistd.h
+-
+

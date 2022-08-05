@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="ex3b" targetName="ex3b" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ee50508-15b8-4f36-bfd0-bb8bc94e3d79" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="717" column="35" lean-forward="false" selection-start-line="717" selection-start-column="35" selection-end-line="717" selection-end-column="35" />
+              <folding>
+                <element signature="e#57#75#0" expanded="true" />
+                <element signature="e#3022#3977#0" expanded="false" />
+                <element signature="e#3980#4515#0" expanded="false" />
+                <element signature="e#4518#5521#0" expanded="false" />
+                <element signature="e#5524#7052#0" expanded="false" />
+                <element signature="e#7055#8098#0" expanded="false" />
+                <element signature="e#8101#8656#0" expanded="false" />
+                <element signature="e#8659#8821#0" expanded="false" />
+                <element signature="e#10689#10987#0" expanded="false" />
+                <element signature="e#10990#12101#0" expanded="false" />
+                <element signature="e#12104#13650#0" expanded="false" />
+                <element signature="e#13653#15276#0" expanded="false" />
+                <element signature="e#17107#17814#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>calloc</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="123" />
+    <option name="y" value="124" />
+    <option name="width" value="1281" />
+    <option name="height" value="634" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ex3b" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="ex3b" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trys" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ex3b">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="ex3b" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$PROJECT_DIR$/../../example/configuration.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ex3b" TARGET_NAME="ex3b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ex3b" RUN_TARGET_NAME="ex3b">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ex3b" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ee50508-15b8-4f36-bfd0-bb8bc94e3d79" name="Default" comment="" />
+      <created>1525439405462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525439405462</updated>
+      <workItem from="1525439407444" duration="1370000" />
+      <workItem from="1525440947840" duration="15408000" />
+      <workItem from="1525609761873" duration="1291000" />
+      <workItem from="1525605201498" duration="3832000" />
+      <workItem from="1525621404110" duration="421000" />
+      <workItem from="1525797866273" duration="5003000" />
+      <workItem from="1525803476197" duration="16000" />
+      <workItem from="1525803941379" duration="3944000" />
+      <workItem from="1525808376757" duration="152000" />
+      <workItem from="1525808574091" duration="15000" />
+      <workItem from="1525808672648" duration="106000" />
+      <workItem from="1525808996285" duration="367000" />
+      <workItem from="1525809558705" duration="67000" />
+      <workItem from="1525873571682" duration="119000" />
+      <workItem from="1526595387217" duration="1903000" />
+      <workItem from="1526597348690" duration="14000" />
+      <workItem from="1527528860579" duration="18000" />
+      <workItem from="1527604893832" duration="5000" />
+      <workItem from="1527684510289" duration="319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34370000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="123" y="124" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0812749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30645162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31451613" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2580645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>717</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="result" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12906">
+          <caret line="717" column="35" lean-forward="true" selection-start-line="717" selection-start-column="35" selection-end-line="717" selection-end-column="35" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12906">
+          <caret line="717" column="35" lean-forward="true" selection-start-line="717" selection-start-column="35" selection-end-line="717" selection-end-column="35" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12600">
+          <caret line="700" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="766" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12600">
+          <caret line="700" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="766" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5562">
+          <caret line="309" column="0" lean-forward="false" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5562">
+          <caret line="309" column="0" lean-forward="false" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1818">
+          <caret line="101" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="731" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5184">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6138">
+          <caret line="341" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="723" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6048">
+          <caret line="336" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="723" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10134">
+          <caret line="563" column="40" lean-forward="false" selection-start-line="563" selection-start-column="40" selection-end-line="563" selection-end-column="40" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10818">
+          <caret line="601" column="33" lean-forward="false" selection-start-line="601" selection-start-column="33" selection-end-line="601" selection-end-column="33" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10818">
+          <caret line="601" column="33" lean-forward="false" selection-start-line="601" selection-start-column="33" selection-end-line="601" selection-end-column="33" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5958">
+          <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5868">
+          <caret line="326" column="2" lean-forward="false" selection-start-line="326" selection-start-column="2" selection-end-line="326" selection-end-column="2" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="200" column="0" lean-forward="true" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5742">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="60" column="77" lean-forward="false" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="717" column="35" lean-forward="false" selection-start-line="717" selection-start-column="35" selection-end-line="717" selection-end-column="35" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+            <element signature="e#3022#3977#0" expanded="false" />
+            <element signature="e#3980#4515#0" expanded="false" />
+            <element signature="e#4518#5521#0" expanded="false" />
+            <element signature="e#5524#7052#0" expanded="false" />
+            <element signature="e#7055#8098#0" expanded="false" />
+            <element signature="e#8101#8656#0" expanded="false" />
+            <element signature="e#8659#8821#0" expanded="false" />
+            <element signature="e#10689#10987#0" expanded="false" />
+            <element signature="e#10990#12101#0" expanded="false" />
+            <element signature="e#12104#13650#0" expanded="false" />
+            <element signature="e#13653#15276#0" expanded="false" />
+            <element signature="e#17107#17814#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

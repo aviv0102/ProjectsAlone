@@ -1,0 +1,10 @@
+# default values for blocks
+default height:25 width:50 stroke:color(black)
+
+# block definitions
+bdef symbol:z hit_points:2 fill-1:image(block_images/alien.jpg) fill-2:image(block_images/enemy.jpg)
+bdef symbol:l hit_points:2 fill-1:image(block_images/alien.jpg) fill-2:image(block_images/enemy.jpg) 
+
+# spacers definitions
+sdef symbol:- width:50
+sdef symbol:x width:5

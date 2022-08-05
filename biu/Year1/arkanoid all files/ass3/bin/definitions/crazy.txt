@@ -1,0 +1,48 @@
+
+START_LEVEL
+level_name:Don't lose 
+ball_velocities:45,750 -45,750 -30,750 30,750 50,650 60,600 10,750 -30,760 -15,720 0,720
+background:image(background_images/mirror.jpg)
+paddle_speed:800
+paddle_width:100
+block_definitions:definitions/crazy1.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-
+-
+-lllllllllllll--
+-zzzzzzzzzzzzz--
+END_BLOCKS
+END_LEVEL
+
+
+
+START_LEVEL
+level_name: The end
+ball_velocities:45,750 30,750 10,750 15,750 20,750
+background:image(background_images/space.jpg)
+paddle_speed:850
+paddle_width:100
+block_definitions:definitions/crazy2.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:135
+START_BLOCKS
+ggggggggggggggg
+gyyyryygoobooog
+gyyrryygoobboog
+gyrrrrrgbbbbbog
+grrrrrrgbbbbbbg
+gyrrrrrgbbbbbog
+gyyrryygoobboog
+gyyyryygoobooog
+ggggggggggggggg
+
+END_BLOCKS
+END_LEVEL

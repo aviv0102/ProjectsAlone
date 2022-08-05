@@ -1,0 +1,189 @@
+﻿Installing assembly 'C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Service ImageService has been successfully installed.
+Creating EventLog source ImageService in log Application...
+Committing assembly 'C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Uninstalling assembly 'C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+Service ImageService is being removed from the system...
+Service ImageService was successfully removed from the system.
+Installing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Service ImageService has been successfully installed.
+Creating EventLog source ImageService in log Application...
+Committing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Uninstalling assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+Service ImageService is being removed from the system...
+Service ImageService was successfully removed from the system.
+Installing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Service ImageService has been successfully installed.
+Creating EventLog source ImageService in log Application...
+Committing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Uninstalling assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+Service ImageService is being removed from the system...
+Service ImageService was successfully removed from the system.
+Attempt to stop service ImageService.
+Uninstalling assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+Warning: The source ImageService is not registered on the local machine.
+Service ImageService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Service ImageService has been successfully installed.
+Creating EventLog source ImageService in log Application...
+Committing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Uninstalling assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+Service ImageService is being removed from the system...
+Service ImageService was successfully removed from the system.
+Installing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Service ImageService has been successfully installed.
+Creating EventLog source ImageService in log Application...
+Committing assembly 'C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Uninstalling assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Creating EventLog source ImageService in log Application...
+Rolling back assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Restoring event log to previous state for source ImageService.
+Uninstalling assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Creating EventLog source ImageService in log Application...
+Rolling back assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Restoring event log to previous state for source ImageService.
+Installing assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Creating EventLog source ImageService in log Application...
+Rolling back assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Restoring event log to previous state for source ImageService.
+Uninstalling assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source ImageService.
+Service ImageService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+Installing service ImageService...
+Service ImageService has been successfully installed.
+Creating EventLog source ImageService in log Application...
+Committing assembly 'C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe

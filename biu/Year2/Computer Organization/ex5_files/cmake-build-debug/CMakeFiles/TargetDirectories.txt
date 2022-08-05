@@ -1,0 +1,3 @@
+/home/magshimim/Desktop/Computer Organization/ex5_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/magshimim/Desktop/Computer Organization/ex5_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/magshimim/Desktop/Computer Organization/ex5_files/cmake-build-debug/CMakeFiles/ex5_files.dir

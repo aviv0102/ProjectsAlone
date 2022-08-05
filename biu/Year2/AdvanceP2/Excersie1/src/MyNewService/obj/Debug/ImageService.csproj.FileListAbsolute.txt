@@ -1,0 +1,43 @@
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.ImageService.resources
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe.config
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.pdb
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.exe
+C:\Users\nadav\Documents\Visual Studio 2017\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.pdb
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\obj\Debug\MyNewService.ImageService.resources
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\obj\Debug\MyNewService.exe
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\obj\Debug\MyNewService.pdb
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe.config
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\bin\Debug\MyNewService.pdb
+C:\work\AdvanceP2\ex1\MyNewService\MyNewService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe.config
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\bin\Debug\MyNewService.pdb
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\obj\Debug\MyNewService.ImageService.resources
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\obj\Debug\MyNewService.exe
+C:\Users\user1\Desktop\Excersie1\src\MyNewService\obj\Debug\MyNewService.pdb
+C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe.config
+C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.exe
+C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\MyNewService.pdb
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\MyNewService.ImageService.resources
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\MyNewService.exe
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\MyNewService.pdb
+C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\Newtonsoft.Json.dll
+C:\work\AdvanceP2\Excersie1\src\MyNewService\bin\Debug\Newtonsoft.Json.xml
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\ImageService.csproj.CopyComplete
+C:\work\AdvanceP2\Excersie1\src\MyNewService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache

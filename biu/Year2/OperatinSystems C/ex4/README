@@ -1,0 +1,13 @@
+info:
+Aviv Shisman
+206558157
+
+notes:
+
+- i assumed that the parameters for each function will be freed outside, because they were allocated outside
+
+- program is leak free
+
+- checked on U2
+
+

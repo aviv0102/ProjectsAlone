@@ -1,0 +1,102 @@
+
+# Level 1
+# Image Background and big blocks with 3 lives
+
+START_LEVEL
+level_name:Square Moon
+ball_velocities:45,500
+background:image(background_images/night.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/moon_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:100
+num_blocks:4
+START_BLOCKS
+--ll--
+--ll--
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# Image Background and images for blocks
+
+START_LEVEL
+level_name:Welcome to the Jungle
+ball_velocities:45,500 -45,500 -30,500 30,500
+background:image(background_images/jungle.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/jungle_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-
+-
+-lllllllllllll--
+-zzzzzzzzzzzzz--
+END_BLOCKS
+END_LEVEL
+
+# Level 3
+# Complicated pattern
+
+START_LEVEL
+level_name: Retro Arrows
+ball_velocities:45,500 46,500 47,500
+background:color(RGB(142,0,0))
+paddle_speed:650
+paddle_width:250
+block_definitions:definitions/arrows_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:135
+START_BLOCKS
+-
+-
+ggggggggggggggg
+gyyyryygoobooog
+gyyrryygoobboog
+gyrrrrrgbbbbbog
+grrrrrrgbbbbbbg
+gyrrrrrgbbbbbog
+gyyrryygoobboog
+gyyyryygoobooog
+ggggggggggggggg
+
+END_BLOCKS
+END_LEVEL
+
+# Level 4
+# The good old final four level with an upgraded background
+
+START_LEVEL
+level_name: Final Four (V2)
+ball_velocities:45,500
+background:image(background_images/clouds.png)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/final_four_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:105
+START_BLOCKS
+-
+-
+GGGGGGGGGGGGGGG
+rrrrrrrrrrrrrrr
+yyyyyyyyyyyyyyy
+ggggggggggggggg
+wwwwwwwwwwwwwww
+ppppppppppppppp
+ccccccccccccccc
+
+END_BLOCKS
+END_LEVEL

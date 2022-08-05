@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ex5.dir/ex52.c.o CMakeFiles/ex5.dir/ex51.c.o  -o ex5 
