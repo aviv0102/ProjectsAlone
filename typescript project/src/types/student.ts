@@ -1,10 +1,14 @@
-export class Student {
-    name: number;
-    age: number;
-    address: string;
-    
+import {Address} from './address';
 
-    constructor(ar) {
-     
+export class Student {
+    name: string;
+    age: number;
+    address: Address;
+
+
+    constructor(name: string, age: number, address: Address) {
+        this.name = name;
+        this.age = age;
+        this.address = address;
     }
 }

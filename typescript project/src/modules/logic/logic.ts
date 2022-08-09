@@ -1,16 +1,14 @@
 
 export async function getAll(): Promise<any> {
-
-    const buul = { a: 5, b: 2 }
-    const { a, b } = buul
+    const buul = {a: 5, b: 2};
+    const {a, b} = buul;
 
     for (const x in []) {
 
     }
 
-    return []
+    return [];
 }
-
 
 
 //     rules.forEach((rule) => constitution[rule.key] = rule.value);
@@ -28,12 +26,12 @@ export async function getAll(): Promise<any> {
 
 
 //    const cluster: Cluster = {            for interfaces
-    //         id: element['ID'],
-    //         clusteringQuality: element['hatzvara_quality'],
-    //         identification: element['Identification'],
-    //         stayingInterval: parsedStayingInterval,
-    //         profession: element['profession'],
-    //         numberOfBuildings: Number(element['number_of_buildings']),
-    //         geoBuildings: buildings,
-    //         inBuildingQuality: element['in_building_quality'],
-    //     };
+//         id: element['ID'],
+//         clusteringQuality: element['hatzvara_quality'],
+//         identification: element['Identification'],
+//         stayingInterval: parsedStayingInterval,
+//         profession: element['profession'],
+//         numberOfBuildings: Number(element['number_of_buildings']),
+//         geoBuildings: buildings,
+//         inBuildingQuality: element['in_building_quality'],
+//     };

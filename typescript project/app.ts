@@ -1,3 +1,3 @@
-import * as mainFlow from './src/modules/server';
+import * as server from './src/modules/server';
 
-mainFlow.start().then(() => console.log('finished'));
+server.start().then(() => console.log('finished'));
