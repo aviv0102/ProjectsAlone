@@ -1,6 +1,6 @@
 import * as mainFlow from './src/modules/server';
 
-mainFlow.start().then(() => console.log('finished'));
+mainFlow.start().then(() => console.log(''));
 
 
 

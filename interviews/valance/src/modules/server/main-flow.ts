@@ -1,17 +1,35 @@
-// import {readClusters, readIturim, readConstitution} from '../data-providers';
-// import {getClusterGrade} from '../grader';
-// import {crossClusterWithIturim} from '../cross-checker';
+import { findForMatchingSum } from "../utils/simple-function";
 
 export async function start(): Promise<void> {
 
-    console.log('this is a test')
+    const array = [1, 2 ,3 , 4 ,5]
+    console.log(findForMatchingSum(array, 10))
 
-    const a = 5;
-    const b = '5';
-
-    console.log(a==b)
- 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//export type Link = { [path: string]: string[] }
 
 // export async function getAll(): Promise<any> {
 
@@ -25,13 +43,14 @@ export async function start(): Promise<void> {
 //     return []
 // }
 
-
+// function identity<Type>(arg: Type): Type {
+//     return arg;
+// }
 
 //     rules.forEach((rule) => constitution[rule.key] = rule.value);
 
 //     const points = positions.map((position) => new Point(position[0], position[1]));
 
-//     const rule: Rule = {key, value};
 
 //     const polygons = buildingsAsString
 //         .split('\'')
