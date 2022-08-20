@@ -3,9 +3,6 @@
 import { Item, ItemIds } from "../../types";
 
 
-const items: { [item_id: string]: Item } = {}
-
-
 export function getItem(item_id: string): Item {
     return items[item_id];
 }
@@ -31,3 +28,10 @@ export function getAll(): Item[] {
         return items[key];
     });
 }
+
+
+export function cleanDictionary() : void {
+    items = {};
+}
+
+export let items: { [item_id: string]: Item } = {}        // I exported this for tests only
