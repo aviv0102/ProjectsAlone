@@ -1,0 +1,21 @@
+{
+  "name": "codevalue-nodejs",
+  "private": true,
+  "scripts": {
+    "start:crawl": "SET DEPTH=2 && ts-node src/crawlTask.ts",
+    "start:http": "ts-node src/restApiTask.ts"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cheerio": "^0.22.18",
+    "@types/express": "^4.17.6",
+    "@types/node": "^14.0.14",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
