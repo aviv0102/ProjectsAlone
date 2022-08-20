@@ -1,10 +1,12 @@
 import express from 'express';
 import { Config } from '../../config/config';
-import { sellerRouter } from '../routers/seller-routes';
+import { clientRouter } from '../routers/client-routes';
+import { storeOwnerRouter } from '../routers/store-owner-routes';
 
 export const Server = express();
 
 export async function start(): Promise<void> {
-    Server.use(sellerRouter);
-    Server.listen(Config.port, () =>console.log("Server listening on PORT", Config.port));
+    Server.use(storeOwnerRouter);
+    Server.use(clientRouter);
+    Server.listen(Config.port, () => console.log("Server listening on PORT", Config.port));
 }
