@@ -62,7 +62,7 @@
     ],
     "include": [
         "src/**/*.ts"
-, "src/modules/routers/seller-routes.ts"    ],
+, "src/modules/routers/store-owner-routes.ts"    ],
     "exclude": [
         "node_modules"
     ]
